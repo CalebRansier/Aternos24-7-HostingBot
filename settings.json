@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SirQuacking.aternos.me",
+    "ip": "SirQuacking.aternos.me:43554",
     "port": 43554,
     "version": "1.21",
     "try-creative": false
